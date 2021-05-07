@@ -1,1 +1,1 @@
-My name is Rohan Krishna Ullas and today is Friday, 7 May, 19:05 GMT+5:30
+My name is Rohan Krishna Ullas and today is Fri May 07 2021
