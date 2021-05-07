@@ -7,7 +7,7 @@ var n = d.toDateString();
 
 let DATA = {
   name: 'Rohan Krishna Ullas',
-  date: n,
+  date: d,
 };
 
 function generateReadMe() {
