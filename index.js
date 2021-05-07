@@ -2,18 +2,12 @@ const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
+var d = new Date();
+var n = d.toDateString();
 
 let DATA = {
   name: 'Rohan Krishna Ullas',
-  date: new Date().toLocaleDateString('en-GB', {
-    weekday: 'long',
-    month: 'long',
-    day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
-    timeZoneName: 'short',
-    timeZone: 'Asia/Kolkata',
-  }),
+  date: n,
 };
 
 function generateReadMe() {
