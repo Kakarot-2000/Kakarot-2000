@@ -1,4 +1,4 @@
-<h1>Kakarot2000 - Rohan Krishna Ullas</h1>
+<h1>Rohan Krishna Ullas -@Kakarot2000</h1>
 <p>
 Hey There!</br>I'm a Pre-Final Year Computer Science Student studying at NIT Rourkela😄.</br>
 </p>
