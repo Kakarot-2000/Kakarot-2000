@@ -6,7 +6,7 @@ var d = new Date();
 var n = d.toDateString();
 
 let DATA = {
-  refresh_date: d,
+  refresh_date: n,
 };
 
 function generateReadMe() {
