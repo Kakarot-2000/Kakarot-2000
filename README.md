@@ -1,6 +1,6 @@
 <h1>Hey There!</h1>
 <p>
-I'm a Pre-Final Year Computer Science Student studying at NIT Rourkela😄.</br>
+I'm a Final Year Computer Science Student studying at NIT Rourkela😄.</br>
 </p>
 <h3>My Articles on Medium</h3>
 <ul>
