@@ -11,4 +11,4 @@ I'm a Final Year Computer Science Student studying at NIT Rourkela😄.</br>
 </ul>
 <p align="center">------------</p>
 <p align="center">Using Github Actions to refresh <i>README</i> every 1 Day</br>Last refresh: Mon Aug 23 2021<br />
-<p align="center"><img src="https://github.com/Kakarot-2000/Kakarot-2000/workflows/README%20build/badge.svg" style="margin-left:50em" />
+<p align="center"><img src="https://github.com/Kakarot-2000/Kakarot-2000/workflows/README%20build/badge.svg" />
