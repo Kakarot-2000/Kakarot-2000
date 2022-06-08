@@ -2,11 +2,10 @@ const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-var d = new Date();
-var n = d.toDateString();
+var date = new Date().toDateString();
 
 let DATA = {
-  refresh_date: n,
+  refresh_date: date,
 };
 
 function generateReadMe() {
