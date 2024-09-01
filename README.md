@@ -10,5 +10,5 @@ I'm a Final Year Computer Science Student studying at NIT Rourkela😄.</br>
   <li><a href="https://kakarot2000.medium.com/why-cp-is-not-a-silver-bullet-for-your-coding-interviews-214a051a02d9"><b>⚡Why CP is Not a Silver Bullet For your Coding Interviews</b></a><br/><i>Strong knowledge of data structures and algorithms is just one of the many skills companies look for in incoming software engineers</i></li>
 </ul>
 <p align="center">------------</p>
-<p align="center">Using Github Actions to refresh <i>README</i> every 1 Day</br>Last refresh: Sat Aug 31 2024<br />
+<p align="center">Using Github Actions to refresh <i>README</i> every 1 Day</br>Last refresh: Sun Sep 01 2024<br />
 <p align="center"><img src="https://github.com/Kakarot-2000/Kakarot-2000/workflows/README%20build/badge.svg" />
